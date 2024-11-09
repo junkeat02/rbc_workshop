@@ -1,3 +1,8 @@
+### Name: Lee Jun Keat
+### Course: Mechanical engineering 3rd year
+### Department: Software (Ros)
+
+
 # Python beginner workshop
 
 ![PYTHON ICON](https://www.python.org/static/img/python-logo@2x.png)
