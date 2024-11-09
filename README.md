@@ -42,7 +42,10 @@ It is a **numerical count** loop.
 
 Exp:
 ```
-For x in range(3):
+for x in range(3):
+    print(x)
+
+for x in ["you", "me", "I"]:
     print(x)
 ```
 
@@ -61,7 +64,7 @@ Exp of infinite loop:
 ```
 import time
 n = 0
-While True:
+while True:
     n += 1
     print(n)
     time.sleep(1)
