@@ -1,6 +1,6 @@
-### Name: Lee Jun Keat
-### Course: Mechanical engineering 3rd year
-### Department: Software (Ros)
+__Name: Lee Jun Keat__
+__Course: Mechanical engineering 3rd year__
+__Department: Software (Ros)__
 
 
 # Python beginner workshop
